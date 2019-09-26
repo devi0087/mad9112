@@ -1,0 +1,3 @@
+lets learn git >>lear
+pwd
+echo lets learn git
